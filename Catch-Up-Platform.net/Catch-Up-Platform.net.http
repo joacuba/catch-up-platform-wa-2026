@@ -1,0 +1,6 @@
+@Catch_Up_Platform.net_HostAddress = http://localhost:5207
+
+GET {{Catch_Up_Platform.net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
